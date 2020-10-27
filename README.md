@@ -1,2 +1,2 @@
 # HelloGithubFAD
-Meu primeiro GitHub
+Todos os projetos de informática possui um detalhe que muitos acham irrelevantes, "Quais dados usarei para alcançar os objetivos almejados no projeto". E muitas das vezes "dados" estes com: erros, dúbios, missing, ou até mesmo usados de forma errada e até mesmo não usados na própria empresa e com um valor crucial para empresa. Não quer dizer que os projetos estão coletando dados de forma erronea, não, mas que falta um pouco de importância no assunto, pois o mesmo permeia várias fases do projeto, onde em cada processo ele ganha arranjos, digamos assim, e direciona o projeto para o sucesso e resultados.
